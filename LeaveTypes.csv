@@ -1,0 +1,6 @@
+LeaveType_ID,Name,Max_Days,Requires_Approval,Description,Color
+LT001,Annual Leave,20,true,Paid annual vacation leave,#3B82F6
+LT002,Sick Leave,10,false,Sick leave (doctor's discretion),#EF4444
+LT003,Personal Leave,5,true,Personal reasons,#F59E0B
+LT004,Bereavement,5,true,Death in family,#8B5CF6
+LT005,Maternity,90,true,Maternity leave,#EC4899

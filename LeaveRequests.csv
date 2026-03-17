@@ -1,0 +1,8 @@
+Request_ID,Employee_ID,LeaveType_ID,Start_Date,End_Date,Reason,Status,Approver_ID,Days_Requested,Submission_Date,Approval_Date,Rejection_Reason
+LR001,E004,LT001,2026-04-01,2026-04-05,Spring vacation,approved,E002,5,2026-03-10,2026-03-12,
+LR002,E005,LT001,2026-03-20,2026-03-22,Family trip,pending,,3,2026-03-15,,
+LR003,E001,LT002,2026-03-18,2026-03-18,Flu symptoms,approved,E002,1,2026-03-17,2026-03-17,
+LR004,E008,LT001,2026-05-01,2026-05-10,Vacation,pending,,10,2026-03-16,,
+LR005,E007,LT003,2026-04-10,2026-04-10,Personal appointment,rejected,E006,1,2026-03-14,2026-03-15,Schedule conflict
+LR006,E004,LT002,2026-03-19,2026-03-19,Cold,approved,,1,2026-03-17,2026-03-17,
+LR007,E005,LT002,2026-03-21,2026-03-21,Doctor visit,approved,,1,2026-03-18,2026-03-18,

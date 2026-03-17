@@ -1,0 +1,9 @@
+Employee_ID,Name,Email,Department,Position,Role,Manager_ID,Annual_Leave_Balance,Sick_Leave_Balance,Personal_Leave_Balance,Total_Days_Used
+E001,Alice Johnson,alice@company.com,Engineering,Senior Engineer,employee,,15,8,3,5
+E002,Bob Manager,bob@company.com,Engineering,Engineering Manager,manager,,18,10,5,2
+E003,Carol Admin,carol@company.com,HR,HR Manager,admin,,20,10,5,0
+E004,David Smith,david@company.com,Sales,Sales Representative,employee,E002,14,7,2,6
+E005,Emma Davis,emma@company.com,Sales,Sales Representative,employee,E002,14,8,3,4
+E006,Frank Wilson,frank@company.com,Finance,Finance Manager,manager,,17,9,4,3
+E007,Grace Lee,grace@company.com,Finance,Accountant,employee,E006,15,8,2,5
+E008,Henry Brown,henry@company.com,Engineering,Junior Engineer,employee,E002,12,6,1,8

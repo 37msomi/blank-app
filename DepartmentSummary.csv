@@ -1,0 +1,5 @@
+Department,Total_Employees,Pending_Requests,Approved_Requests,Total_Leave_Days_Used,Annual_Leave_Pool,Annual_Leave_Used
+Engineering,3,1,2,19,50,19
+Sales,2,1,1,10,28,10
+Finance,2,0,1,9,32,9
+HR,1,0,0,0,20,0
